@@ -1,4 +1,6 @@
 # threads
-# CP-HUB Rocks
 
-Blog Content will be posted here and Discussion will be held on codechef
+
+<!--BLOG-POST-LIST:START-->
+Road Map to CP
+<!--BLOG-POST-LIST:END-->
