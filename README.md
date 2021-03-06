@@ -1,8 +1,10 @@
 # Threads
-
+## Index
+* [Roadmap from Ajay](#Ajay)
 
 <!--BLOG-POST-LIST:START-->
   Road Map to CP  
+### Ajay  
 ● Learn a programming language preferably Cpp.  
 ● Then learn builtin libraries and inbuilt functions(learn STL if C++)  
 ● Learn basic concepts like binary search, greedy algorithms and  
