@@ -5,6 +5,7 @@
   * [Roadmap from Gautham Krishna](#Gautham)
   * [Roadmap from Amith](#Amith)
   * [Roadmap from Hari Rakesh](#HariRakesh)
+  * [Roadmap from Varshith](#Varshith)
 <!--BLOG-POST-LIST:START-->
 ## Road Map to CP  
 ### Ajay  
@@ -95,4 +96,18 @@ DP concepts)
 , [Algorithms Live](https://www.youtube.com/channel/UCBLr7ISa_YDy5qeATupf26w)  
 ● You can also refer to Masataka Yoneda’s "[A Way to Practice
 Competitive Programming](https://codeforces.com/blog/entry/66909)", for an indepth roadmap  
+<!--BLOG-POST-LIST:END-->
+<!--BLOG-POST-LIST:START-->
+ ### Varshith
+● Learn a programming language.  
+● Start practising in competitive programming websites (codeforces, codechef, atcoder)  
+● If you feel practising in these sites to be difficult in the beginning then do problem solving
+in hacker rank and then repeat step-2.  
+● Read editorials as there will be some techniques/ideas which many can’t think if they
+dont know them before, also reading editorials will groom you how to approach for a new
+problem.  
+● If you are stuck at certain rating do stuff which you weren’t doing before.  
+● Lastly never quit doing cp even if your rating falls for many contests in a row(atleast if
+you are interested to improve).  
+● Maintain a habit of googling whatever you don’t know and try to understand them.  
 <!--BLOG-POST-LIST:END-->
