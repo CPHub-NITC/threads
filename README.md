@@ -62,4 +62,5 @@ Continue to participate in contests and if unable to solve particular problems j
 ● After learning new things-> practice few questions to increase confidence  
 ● Keep your environment good to not get demotivated.  
 ● Develop your own strategy  
+
 <!--BLOG-POST-LIST:END-->
