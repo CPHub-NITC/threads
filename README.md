@@ -36,7 +36,6 @@ new topic just google it and learn . Then practice problems on newly
 learnt topics  
 <!--BLOG-POST-LIST:END-->
 <!--BLOG-POST-LIST:START-->
-  Road Map to CP  
 ### gautham227  
 ● Learn a basic programming language like c++ or python  
 ● Learn the basic DS and algo like basic math, number theory, binary search, greedy algorithm, recursion and backtracking.  
@@ -55,7 +54,6 @@ Continue to participate in contests and if unable to solve particular problems j
 <!--BLOG-POST-LIST:END-->
 <!--BLOG-POST-LIST:END-->
 <!--BLOG-POST-LIST:START-->
-  Road Map to CP  
   ### Amith  
 ● Practice  
 ● Upsolve  
