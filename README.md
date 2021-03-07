@@ -6,6 +6,7 @@
   * [Roadmap from Amith](#Amith)
   * [Roadmap from Hari Rakesh](#HariRakesh)
   * [Roadmap from Varshith](#Varshith)
+  * [Roadmap from Shahraaz](#Shahraaz)
 <!--BLOG-POST-LIST:START-->
 ## Road Map to CP  
 ### Ajay  
