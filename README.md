@@ -36,7 +36,7 @@ new topic just google it and learn . Then practice problems on newly
 learnt topics  
 <!--BLOG-POST-LIST:END-->
 <!--BLOG-POST-LIST:START-->
-### gautham227  
+### Gautham   
 ● Learn a basic programming language like c++ or python  
 ● Learn the basic DS and algo like basic math, number theory, binary search, greedy algorithm, recursion and backtracking.  
 ● These basic topics can be learned from the book “A guide to competitive programming” from Antti Laaksonen.  
@@ -51,7 +51,6 @@ Continue to participate in contests and if unable to solve particular problems j
 ● If we find any new topics then learn it from the various online sources.  
 ● Just keep on practicing and continue to participate in contests as “PRACTICE MAKES A MAN PERFECT”.  
 ● Never take it as a job and just enjoy the process.  
-<!--BLOG-POST-LIST:END-->
 <!--BLOG-POST-LIST:END-->
 <!--BLOG-POST-LIST:START-->
   ### Amith  
