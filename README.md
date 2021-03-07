@@ -1,8 +1,9 @@
 # Threads
 ## Index
-* [Roadmap from Ajay](#Ajay)
-* [Roadmap from Gautham Krishna](#gautham227)
-* [Roadmap from Amith](#Amith)
+* [RoadMap to CP](#Road-Map-to-CP)
+  * [Roadmap from Ajay](#Ajay)
+  * [Roadmap from Gautham Krishna](#gautham227)
+  * [Roadmap from Amith](#Amith)
 <!--BLOG-POST-LIST:START-->
   Road Map to CP  
 ### Ajay  
