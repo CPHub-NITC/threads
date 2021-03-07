@@ -2,7 +2,7 @@
 ## Index
 * [RoadMap to CP](#Road-Map-to-CP)
   * [Roadmap from Ajay](#Ajay)
-  * [Roadmap from Gautham Krishna](#gautham227)
+  * [Roadmap from Gautham Krishna](#Gautham)
   * [Roadmap from Amith](#Amith)
 <!--BLOG-POST-LIST:START-->
 ## Road Map to CP  
