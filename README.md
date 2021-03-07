@@ -5,7 +5,7 @@
   * [Roadmap from Gautham Krishna](#gautham227)
   * [Roadmap from Amith](#Amith)
 <!--BLOG-POST-LIST:START-->
-  Road Map to CP  
+## Road Map to CP  
 ### Ajay  
 ● Learn a programming language preferably Cpp.  
 ● Then learn builtin libraries and inbuilt functions(learn STL if C++)  
