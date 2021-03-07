@@ -4,6 +4,7 @@
   * [Roadmap from Ajay](#Ajay)
   * [Roadmap from Gautham Krishna](#Gautham)
   * [Roadmap from Amith](#Amith)
+  * [Roadmap from Hari Rakesh](#HariRakesh)
 <!--BLOG-POST-LIST:START-->
 ## Road Map to CP  
 ### Ajay  
@@ -61,4 +62,37 @@ Continue to participate in contests and if unable to solve particular problems j
 ● Keep your environment good to not get demotivated.  
 ● Develop your own strategy  
 
+<!--BLOG-POST-LIST:END-->
+<!--BLOG-POST-LIST:START-->
+   ### HariRakesh  
+● Learn a programming language(C++ most popular for CP, has most
+resources online)  
+● Practice easy questions on websites like [hackerrank](https://www.hackerrank.com/domains/algorithms)  
+● Learn STL from [GFG](https://www.geeksforgeeks.org/the-c-standard-template-library-stl/) (you can use this [website](http://cplusplus.com/reference/stl/) for reference)  
+● Start giving easy contests (eg : [ABC](https://atcoder.jp/) , [Codeforces Div 3](https://codeforces.com/))  
+● Always upsolve after the end of a contest (solve the problems you
+could not solve during the contest)  
+● Solve Atcoder Beginner Contest problems till ~D (this will help with
+problem solving speed also, [kenkoooo.com](https://kenkoooo.com/atcoder/#/table/) has a list of all past
+atcoder problems)  
+● After solving , look at other people’s code and also the editorial , this
+can give you ideas that you may have missed or might teach you
+clever ways of implementing a solution.  
+● Solve problems of [+100,+300] more rating than your current rating,
+on Codeforces.  
+● Use Mostafa Saad’s [Junior Training Sheet](https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit#gid=855203541) to solve problems based
+on topic or based on difficulty(It has around 950 problems to
+newcomers to CP)  
+● Learn few important Data Structures and Algorithms like DFS, BFS ,
+Binary Indexed Tree, bitmasking , binomial coefficients ( A good
+resource for this is [cp-algorithms.com](https://cp-algorithms.com/) , you can also refer to popular
+blogs on CF for particular topics)  
+● Learn DP ( You can use GFG, CF blogs , YouTube channels etc for
+this) (Solving [Atcoder Educational DP Contest](https://atcoder.jp/contests/dp) will help strengthen
+DP concepts)  
+● A few YouTube channels that might help with all the above steps are
+– [Errichto](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg), [Demoralizer](https://www.youtube.com/channel/UCGS5ZzcSAymQbWZvNoKOFhQ), [Code N Code](https://www.youtube.com/channel/UC0zvY3yIBQTrSutsV-4yscQ) , [Colin Galen](https://www.youtube.com/channel/UCpvS3EykHW--l0ogUhMEjEw) , [Second Thread](https://www.youtube.com/channel/UCXbCohpE9IoVQUD2Ifg1d1g)
+, [Algorithms Live](https://www.youtube.com/channel/UCBLr7ISa_YDy5qeATupf26w)  
+● You can also refer to Masataka Yoneda’s "[A Way to Practice
+Competitive Programming](https://codeforces.com/blog/entry/66909)", for an indepth roadmap  
 <!--BLOG-POST-LIST:END-->
