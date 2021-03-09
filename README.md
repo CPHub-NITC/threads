@@ -112,20 +112,7 @@ problem.
 you are interested to improve).  
 - Maintain a habit of googling whatever you don’t know and try to understand them.  
 <!--BLOG-POST-LIST:END-->
-<!--BLOG-POST-LIST:START-->
- ### Varshith
-- Learn a programming language.  
-- Start practising in competitive programming websites (codeforces, codechef, atcoder)  
-- If you feel practising in these sites to be difficult in the beginning then do problem solving
-in hacker rank and then repeat step-2.  
-- Read editorials as there will be some techniques/ideas which many can’t think if they
-dont know them before, also reading editorials will groom you how to approach for a new
-problem.  
-- If you are stuck at certain rating do stuff which you weren’t doing before.  
-- Lastly never quit doing cp even if your rating falls for many contests in a row(atleast if
-you are interested to improve).  
-- Maintain a habit of googling whatever you don’t know and try to understand them.  
-<!--BLOG-POST-LIST:END-->
+
 <!--BLOG-POST-LIST:START-->
  ### Shahraaz 
 - Find some source of entertainment, something sustainable like gym, running, basket ball, table tennis, anime or some sport (8AM - 2 PM 6 hrs vs 8 AM to 10 AM CP then watch anime some then more CP then basket ball then some more CP)
