@@ -3,7 +3,7 @@
 * [RoadMap to CP](#Road-Map-to-CP)
   * [Roadmap from Ajay](#Ajay)
   * [Roadmap from Gautham Krishna](#Gautham)
-  * [Roadmap from Amith](#Amith)
+  * [Roadmap from Amit](#Amit)
   * [Roadmap from Hari Rakesh](#HariRakesh)
   * [Roadmap from Varshith](#Varshith)
   * [Roadmap from Shahraaz](#Shahraaz)
@@ -56,9 +56,9 @@ Continue to participate in contests and if unable to solve particular problems j
 - Never take it as a job and just enjoy the process.  
 <!--BLOG-POST-LIST:END-->
 <!--BLOG-POST-LIST:START-->
-  ### Amith  
-- Practice  
-- Upsolve  
+  ### Amit  
+- Practice more and more questions 
+- Upsolve the contest questions
 - Know your level  
 - After learning new things-> practice few questions to increase confidence  
 - Keep your environment good to not get demotivated.  
